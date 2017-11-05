@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\color\\button_blue_text.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\color\\button_blue_text.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\color\\button_red_text.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\color\\button_red_text.xml"
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vehicle_querition_top.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\vehicle_querition_top.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vehicle_querition_list_item.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\vehicle_querition_list_item.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\function.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\top_title.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\top_title.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_state_item_two.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\photo_state_item_two.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vehicle_information.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\vehicle_information.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_interface.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\camera_interface.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\password_changetion.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\password_changetion.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leftmenu.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\leftmenu.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_child_view.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\item_child_view.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\capture.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\information_item.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\information_item.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_adapter.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\spinner_adapter.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vehicle_querition_list_item_two.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\vehicle_querition_list_item_two.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_shot.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\photo_shot.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\parameter_setting.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\parameter_setting.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cosmetic_inspect.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\cosmetic_inspect.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_state.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\photo_state.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\information.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\information.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_login.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\user_login.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_show.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\image_show.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vehicle_querition.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\vehicle_querition.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notice_photo.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\notice_photo.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_state_item_one.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\photo_state_item_one.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_group_view.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\item_group_view.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\data_inspection.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\src\\main\\res\\layout\\data_inspection.xml"
+    },
+    {
+        "merged": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\MyProject\\MotorVehicleDetectionSystem(2016_8_26)\\MotorVehicleDetectionSystem\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    }
+]

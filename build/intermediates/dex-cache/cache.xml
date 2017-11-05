@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-jar-with-dependencies_84876b7fa3fdf14512fda2ef38fcb4e34cfd5426.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f4b06413a7a91e7a7654f4cf72734d26b1c0749a">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\instant-run_51fc1b76240ffb62bd7754ae2a24dabe97dc06ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="63a84d9604a5af80411aacf409333281d5fa015d">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5bf045d5fedb6047ef26939f55c29c720b88d6a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\libs\zxing-scanner-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\zxing-scanner-3.0.0_8a7ed2607c9eb2d6029e9975107541abe527e350.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\sun.misc.BASE64Decoder_c434d8c9d74991052ee6def3977c1e35afea3c9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\libs\slidingmenu.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="942c0d8b6512d787707afbe8293566c413cdb86a">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\slidingmenu_d3589efd8226e99283e67bf64c4cce0a47e77cf5.jar" />
+    </item>
+    <item
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\libs\slidingmenu.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="942c0d8b6512d787707afbe8293566c413cdb86a">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\slidingmenu_d3589efd8226e99283e67bf64c4cce0a47e77cf5.jar" />
+    </item>
+    <item
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\libs\zxing-scanner-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fb52cf43975eb06d1696b341b5b7d8e40e8a59e5">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\zxing-scanner-3.0.0_8a7ed2607c9eb2d6029e9975107541abe527e350.jar" />
+    </item>
+    <item
+        jar="D:\AS\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_942a761a219b75676d5eae9604a9793071eee002.jar" />
+    </item>
+    <item
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\libs\sun.misc.BASE64Decoder.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="acd93e3727886196f9b8434279ff445ba8611186">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\sun.misc.BASE64Decoder_c434d8c9d74991052ee6def3977c1e35afea3c9d.jar" />
+    </item>
+    <item
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\libs\commons-net-3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="643cc426b9f75aa111fac0fac0e52ff5d991a337">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\commons-net-3.0.1_0f67c5e2d2d4d94f84bed82f933de4e29904ec12.jar" />
+    </item>
+    <item
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\libs\ksoap2-android-assembly-3.0.0-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="224c93f1824fa17b96db7250c2e5e2703d45e052">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-3.0.0-jar-with-dependencies_84876b7fa3fdf14512fda2ef38fcb4e34cfd5426.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AS\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_942a761a219b75676d5eae9604a9793071eee002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\libs\commons-net-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="643cc426b9f75aa111fac0fac0e52ff5d991a337">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\commons-net-3.0.1_0f67c5e2d2d4d94f84bed82f933de4e29904ec12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="F:\MyProject\MotorVehicleDetectionSystem(2016_8_26)\MotorVehicleDetectionSystem\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-19.1.0_f5d0d957f1253e59c6f1f7ac1c3b94b437e21b0d.jar" />
+    </item>
+
+</items>

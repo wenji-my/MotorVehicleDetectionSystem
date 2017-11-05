@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#87CEEB"
+    android:orientation="vertical" >
+
+    <include layout="@layout/top_title" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#4285F4"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/querition_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:text="车 辆 查 验"
+                android:textColor="#FFFFFF"
+                android:textSize="22sp" />
+        </LinearLayout>
+
+        <ImageButton
+            android:id="@+id/querition_back"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/selector_capture_back"
+            android:onClick="doClick" />
+    </RelativeLayout>
+
+    <include layout="@layout/vehicle_querition_top" />
+
+    <LinearLayout
+        android:id="@+id/is_show_socket"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/white_background"
+        android:gravity="center"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginTop="5dp"
+            android:text="* 无法访问外廓网络 *"
+            android:textColor="#FF0000"
+            android:textSize="17dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/white_background"
+        android:orientation="vertical" >
+
+        <ListView
+            android:id="@+id/vehicle_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/white_background" >
+        </ListView>
+
+        <LinearLayout
+            android:id="@+id/is_show_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="6dp"
+            android:gravity="center"
+            android:visibility="gone" >
+
+            <Button
+                android:id="@+id/wkcc_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_marginRight="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/blue_button"
+                android:enabled="false"
+                android:onClick="doClick"
+                android:text="查验外廓尺寸"
+                android:textColor="@color/button_blue_text" />
+
+            <Button
+                android:id="@+id/zbzl_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="35dp"
+                android:layout_marginLeft="8dp"
+                android:layout_weight="1"
+                android:background="@drawable/blue_button"
+                android:enabled="false"
+                android:onClick="doClick"
+                android:text="查验整备质量"
+                android:textColor="@color/button_blue_text" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>
